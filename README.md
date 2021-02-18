@@ -1,4 +1,4 @@
-# CoRide
+# Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms (CoRide)
 <p align="center">
   <img src="image/coride.png" width="400">
   <br />
