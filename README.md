@@ -1,10 +1,11 @@
 # CoRide
 <p align="center">
-  <img src="image/coride.png" width="600">
+  <img src="image/coride.png" width="450">
   <br />
   <br />
 </p>
 This is the simulator serves as the training and evaluation platform in the following work:
+
 > CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms </br>
 Jiarui Jin, Ming Zhou, Weinan Zhang, Minne Li, Zilong Guo, Zhiwei Qin, Yan Jiao, Xiaocheng Tang, Chenxi Wang, Jun Wang, Guobin Wu, Jieping Ye. </br>
 [CIKM 2019 Oral](https://arxiv.org/pdf/1905.11353.pdf)
