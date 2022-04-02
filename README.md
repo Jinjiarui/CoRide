@@ -9,7 +9,7 @@ This is the simulator serves as the training and evaluation platform in the foll
 
 > CoRide: Joint Order Dispatching and Fleet Management for Multi-Scale Ride-Hailing Platforms </br>
 Jiarui Jin, Ming Zhou, Weinan Zhang, Minne Li, Zilong Guo, Zhiwei Qin, Yan Jiao, Xiaocheng Tang, Chenxi Wang, Jun Wang, Guobin Wu, Jieping Ye. </br>
-[CIKM 2019 Oral](https://arxiv.org/pdf/1905.11353.pdf)
+[CIKM 2019](https://arxiv.org/pdf/1905.11353.pdf)
 
 ### Prerequisites
 - Python 3
