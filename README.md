@@ -30,3 +30,14 @@ If you find this work helpful in your research, please consider citing the follo
   year={2019}
 }
 ```
+
+```bibtex
+@inproceedings{zhou2019multi,
+  title={Multi-agent reinforcement learning for order-dispatching via order-vehicle distribution matching},
+  author={Zhou, Ming and Jin, Jiarui and Zhang, Weinan and Qin, Zhiwei and Jiao, Yan and Wang, Chenxi and Wu, Guobin and Yu, Yong and Ye, Jieping},
+  booktitle={Proceedings of the 28th ACM international conference on information and knowledge management},
+  pages={2645--2653},
+  year={2019}
+}
+```
+
